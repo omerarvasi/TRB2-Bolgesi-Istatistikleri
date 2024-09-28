@@ -1,4 +1,4 @@
-# TRB2-Bolgesi-Istatistikleri
+# TRB2 Bölgesi İstatistikleri
 
 TRB2 Bölgesi NUTS-2 sınıflamasına göre Bitlis, Hakkari, Muş ve Van illerinden oluşan bölgeyi kapsamaktadır. 
 Bölgeye ilişkin ekonomi, nüfus, göç, eğitim, sağlık gibi temel  göstergelere ilişkin istatistikler 2010-2023 yıllarını içerecek şekilde Türkiye İstatistik Kurumu internet sitesinden alınarak grafik ve tablo haline getirilmiştir. 
